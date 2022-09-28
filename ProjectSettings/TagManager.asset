@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - shell
+  - Enemy
+  - Damage
+  - Enemyshell
+  - GameOver
+  - Fire
+  - Wall
+  - Door
+  - Gun
+  - HandGun
+  - Sniper
+  - Effect
+  - Ammo
+  - Box
+  - wood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MainPlayer
+  - Water
+  - UI
+  - shell
+  - Maincamera
+  - Gun
+  - Ground
+  - Enemy
+  - Enemyshell
+  - rock
+  - Effect
+  - Ammo
+  - river
+  - Box
+  - wood
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
